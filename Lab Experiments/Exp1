@@ -1,1 +1,4 @@
-
+touch file.txt
+ls
+rm touch file.txt
+ls
