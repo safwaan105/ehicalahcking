@@ -1,0 +1,3 @@
+tree sample.txt
+head sample.txt
+tail sample.txt
