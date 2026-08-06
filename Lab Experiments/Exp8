@@ -1,0 +1,4 @@
+sudo apt install nmap
+nmap -sV scanme.nmap.org
+nmap -A scanme.nmap.org
+sudo nmap -O scanme.nmap.org
