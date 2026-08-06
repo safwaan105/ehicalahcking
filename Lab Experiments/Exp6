@@ -1,0 +1,6 @@
+touch file1.txt
+touch file2.txt file3.txt
+pwd
+wget https://example.com
+wget https://picsum.photos/300
+ls
