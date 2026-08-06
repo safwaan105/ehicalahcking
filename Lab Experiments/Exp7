@@ -1,0 +1,6 @@
+cd Test
+cd ..
+cd ~
+cp Test/lab.txt copy.txt
+cp -r Test TestBackup
+ls
